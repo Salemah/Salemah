@@ -18,7 +18,4 @@ Welcome to Salem Ahmed profile!
   <a href="">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
 </p>
-<a href = "https://github.com/Salemah/reactspaE-commerce/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = Salemah/reactspaE-commerce"/>
-</a>
-Made with [contributors-img](https://contrib.rocks).
+https://github-readme-stats.vercel.app/api?username=Salemah&show_icons=true)
