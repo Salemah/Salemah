@@ -35,7 +35,7 @@ Welcome to Salem Ahmed profile!
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat&logo=adobe-photoshop)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat&logo=jQuery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
 
