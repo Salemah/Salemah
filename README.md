@@ -31,11 +31,11 @@ Welcome to Salem Ahmed profile!
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React.js-%232c3e50?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat&logo=adobe-photoshop)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat&logo=jQuery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
 
