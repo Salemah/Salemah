@@ -38,6 +38,6 @@ Welcome to Salem Ahmed profile!
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat&logo=jQuery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL%232c3e50?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL%232c3e50?style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
