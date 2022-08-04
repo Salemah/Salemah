@@ -5,7 +5,7 @@ Welcome to Salem Ahmed profile!
 
 ## I'm a Student, Developer, and Learner!! <br>
 - 🏫Studying CSE in American International University-Bangladesh (AIUB)<br>
-- 👀 I’m interested in New Tech, Frontend Backendt<br>
+- 👀 I’m interested in New Tech, Frontend Backend<br>
 - 🌱 I’m currently learning  .NET  <br>
 - 📫 Trying to imporve myself everyday<br>
 
