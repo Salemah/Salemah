@@ -5,7 +5,7 @@ Welcome to Salem Ahmed profile!
 
 ## I'm a Student, Developer, and Learner!! <br>
 - 🏫Studying CSE in American International University-Bangladesh (AIUB)<br>
-- 👀 I’m interested in New Tech, Frontend Development<br>
+- 👀 I’m interested in New Tech, Frontend Backendt<br>
 - 🌱 I’m currently learning  .NET  <br>
 - 📫 Trying to imporve myself everyday<br>
 
@@ -38,5 +38,6 @@ Welcome to Salem Ahmed profile!
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat&logo=jQuery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
