@@ -29,6 +29,7 @@ Welcome to Salem Ahmed profile!
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat&logo=Bootstrap)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-%232c3e50?style=flat&logo=react)&nbsp;
