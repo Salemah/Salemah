@@ -39,6 +39,7 @@ Welcome to Salem Ahmed profile!
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat&logo=jQuery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat&logo=laravel)&nbsp;
+![MongoDb](https://img.shields.io/badge/-Mongodb-%232c3e50?style=flat&logo=Mongodb)&nbsp;
 
 
 
