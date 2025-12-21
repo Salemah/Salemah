@@ -16,9 +16,9 @@ Welcome to Salem Ahmed profile!
   <a href="https://github.com/Salemah">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Salemah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <!-- <a href="http://salem.pw/">
-    <!-- <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a>  --> -->
+    <!-- <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a>  --> 
 </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Salemah&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Salemah&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salemah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
   </p>
