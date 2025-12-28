@@ -24,7 +24,7 @@ Welcome to Salem Ahmed profile!
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=salemah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"> -->
   </p> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salemah&theme=dark&type=png" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Salemah&theme=dark&type=png" alt="GitHub Streak" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salemah&theme=dark&hide_border=true" alt="GitHub Streak"/> -->
 </p>
 
