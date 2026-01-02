@@ -56,6 +56,9 @@ Welcome to Salem Ahmed profile!
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat&logo=csharp)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat&logo=laravel)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-Mongodb-%232c3e50?style=flat&logo=Mongodb)&nbsp;
+![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat&logo=python)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-%232c3e50?style=flat&logo=amazon-aws)
+
 
 
 
